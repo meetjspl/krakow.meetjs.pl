@@ -9,10 +9,10 @@ Work in progress experiment to create awesome krakow.meetjs.pl page.
 * Plain old CSS, JS and HTML to make it easy to contribute.
 
 # todo:
-[ ] move most of favicons to it's own directory
-[ ] add favicons to all pages
-[ ] link to github
-[ ] content!
-[ ] 1. What is Meet.js
-[ ] 2. Who is invited?
-[ ] 3. Page/section for sponsors?
+    [ ] move most of favicons to it's own directory
+    [ ] add favicons to all pages
+    [ ] link to github
+    [ ] content!
+    [ ] 1. What is Meet.js
+    [ ] 2. Who is invited?
+    [ ] 3. Page/section for sponsors?
